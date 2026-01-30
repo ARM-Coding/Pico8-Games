@@ -34,4 +34,6 @@ You can also press the **Esc** key one time (or two depending on what screen you
 
 ## List of Games:
 
-- **Game #1:** The very first "proper" game developed by me, a simple platformer with 3 levels and a few mechanics
+- **Game #1:**
+  <br> **(EN)** The very first "proper" game developed by me, a simple platformer with 3 levels and a few mechanics
+  <br> **(ES)** El primer juego "jugable" desarrollado por mí, un simple plataforma compuesto de 3 niveles y un par de mecánicas
